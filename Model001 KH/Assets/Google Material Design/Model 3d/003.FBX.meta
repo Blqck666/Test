@@ -1,0 +1,1156 @@
+fileFormatVersion: 2
+guid: 503586c30fde13049a015e6e9974b661
+timeCreated: 1476100891
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 15 HP COVER:1
+    100004: 15 HP:1
+    100006: AIR OPERATED VALVE:1
+    100008: B M10:1
+    100010: B M10:2
+    100012: B M10:3
+    100014: BODY:1
+    100016: Bolt:1
+    100018: Bolt:2
+    100020: Bolt:3
+    100022: Bolt:4
+    100024: Bolt:5
+    100026: Bolt:6
+    100028: Bolt:7
+    100030: Bolt:8
+    100032: Coupling Set:1
+    100034: ELECTRIC MOTOR 15 HP:1
+    100036: Frame0001:1
+    100038: IT-1200X450-PUMP:1
+    100040: JIS 100 x 50 x 5 00000001:1
+    100042: JIS 100 x 50 x 5 00000002:1
+    100044: JIS 100 x 50 x 5 00000003:1
+    100046: JIS 100 x 50 x 5 00000004:1
+    100048: JIS 100 x 50 x 5 00000005:1
+    100050: JIS 100 x 50 x 5 00000006:1
+    100052: JIS 100 x 50 x 5 00000007:1
+    100054: JIS 100 x 50 x 5 00000008:1
+    100056: JIS B 1168 - Metric M10:1
+    100058: JIS B 1168 - Metric M10:2
+    100060: JIS B 1176 - Metric M10 x 25:1
+    100062: JIS B 1176 - Metric M10 x 25:2
+    100064: JIS B 1176 - Metric M10 x 25:3
+    100066: JIS B 1176 - Metric M10 x 25:4
+    100068: JIS B 1180 M10x20:1
+    100070: JIS B 1180 M10x20:10
+    100072: JIS B 1180 M10x20:11
+    100074: JIS B 1180 M10x20:12
+    100076: JIS B 1180 M10x20:13
+    100078: JIS B 1180 M10x20:14
+    100080: JIS B 1180 M10x20:15
+    100082: JIS B 1180 M10x20:16
+    100084: JIS B 1180 M10x20:17
+    100086: JIS B 1180 M10x20:18
+    100088: JIS B 1180 M10x20:19
+    100090: JIS B 1180 M10x20:2
+    100092: JIS B 1180 M10x20:20
+    100094: JIS B 1180 M10x20:21
+    100096: JIS B 1180 M10x20:22
+    100098: JIS B 1180 M10x20:23
+    100100: JIS B 1180 M10x20:24
+    100102: JIS B 1180 M10x20:25
+    100104: JIS B 1180 M10x20:26
+    100106: JIS B 1180 M10x20:27
+    100108: JIS B 1180 M10x20:28
+    100110: JIS B 1180 M10x20:29
+    100112: JIS B 1180 M10x20:3
+    100114: JIS B 1180 M10x20:30
+    100116: JIS B 1180 M10x20:31
+    100118: JIS B 1180 M10x20:32
+    100120: JIS B 1180 M10x20:4
+    100122: JIS B 1180 M10x20:5
+    100124: JIS B 1180 M10x20:6
+    100126: JIS B 1180 M10x20:7
+    100128: JIS B 1180 M10x20:8
+    100130: JIS B 1180 M10x20:9
+    100132: JIS B 1180 M10x25:1
+    100134: JIS B 1180 M10x25:2
+    100136: JIS B 1180 M10x25:3
+    100138: JIS B 1180 M10x25:4
+    100140: JIS B 1180 M10x45:1
+    100142: JIS B 1180 M10x45:2
+    100144: JIS B 1180 M10x45:3
+    100146: JIS B 1180 M10x45:4
+    100148: JIS B 1180 M10x45:5
+    100150: JIS B 1180 M10x45:6
+    100152: JIS B 1180 M10x45:7
+    100154: JIS B 1180 M10x45:8
+    100156: JIS B 1180 M18x60:1
+    100158: JIS B 1180 M18x60:2
+    100160: JIS B 1180 M18x60:3
+    100162: JIS B 1180 M18x60:4
+    100164: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:10
+    100166: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:11
+    100168: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:12
+    100170: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:13
+    100172: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:14
+    100174: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:15
+    100176: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:16
+    100178: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:9
+    100180: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM18:1
+    100182: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM18:2
+    100184: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM18:3
+    100186: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM18:4
+    100188: JIS B 1251 No. 2 12:1
+    100190: JIS B 1251 No. 2 12:2
+    100192: JIS B 1251 No. 2 12:3
+    100194: JIS B 1251 No. 2 12:4
+    100196: JIS B 1251 No. 2 12:5
+    100198: JIS B 1251 No. 2 12:6
+    100200: JIS B 1251 No. 2 12:7
+    100202: JIS B 1251 No. 2 12:8
+    100204: JIS B 1251 No. 2 18:1
+    100206: JIS B 1251 No. 2 18:2
+    100208: JIS B 1251 No. 2 18:3
+    100210: JIS B 1251 No. 2 18:4
+    100212: JIS B 1256 10.5:1
+    100214: JIS B 1256 10.5:10
+    100216: JIS B 1256 10.5:11
+    100218: JIS B 1256 10.5:12
+    100220: JIS B 1256 10.5:13
+    100222: JIS B 1256 10.5:14
+    100224: JIS B 1256 10.5:15
+    100226: JIS B 1256 10.5:16
+    100228: JIS B 1256 10.5:17
+    100230: JIS B 1256 10.5:18
+    100232: JIS B 1256 10.5:19
+    100234: JIS B 1256 10.5:2
+    100236: JIS B 1256 10.5:20
+    100238: JIS B 1256 10.5:3
+    100240: JIS B 1256 10.5:4
+    100242: JIS B 1256 10.5:5
+    100244: JIS B 1256 10.5:6
+    100246: JIS B 1256 10.5:7
+    100248: JIS B 1256 10.5:9
+    100250: JIS B 1256 21:1
+    100252: JIS B 1256 21:2
+    100254: JIS B 1256 21:3
+    100256: JIS B 1256 21:4
+    100258: Left Flange:1
+    100260: NPT-FLANGE:1
+    100262: NPT-FLANGE:2
+    100264: PT-30 CORKEN PUMP:1
+    100266: PUMP SET
+    100268: Right Flange:1
+    100270: Rubber:1
+    100272: Rubber:2
+    100274: Rubber:3
+    100276: Rubber:4
+    100278: Rubber:5
+    100280: Rubber:6
+    100282: Rubber:7
+    100284: Rubber:8
+    100286: SHAFT COVER:1
+    100288: SHAFT:1
+    100290: SHAFT:2
+    100292: Solid1
+    100294: Solid1 1
+    100296: Solid1 10
+    100298: Solid1 100
+    100300: Solid1 101
+    100302: Solid1 102
+    100304: Solid1 103
+    100306: Solid1 104
+    100308: Solid1 105
+    100310: Solid1 106
+    100312: Solid1 107
+    100314: Solid1 108
+    100316: Solid1 109
+    100318: Solid1 11
+    100320: Solid1 110
+    100322: Solid1 111
+    100324: Solid1 112
+    100326: Solid1 113
+    100328: Solid1 114
+    100330: Solid1 115
+    100332: Solid1 116
+    100334: Solid1 117
+    100336: Solid1 118
+    100338: Solid1 119
+    100340: Solid1 12
+    100342: Solid1 120
+    100344: Solid1 121
+    100346: Solid1 122
+    100348: Solid1 123
+    100350: Solid1 124
+    100352: Solid1 125
+    100354: Solid1 126
+    100356: Solid1 127
+    100358: Solid1 128
+    100360: Solid1 129
+    100362: Solid1 13
+    100364: Solid1 130
+    100366: Solid1 131
+    100368: Solid1 132
+    100370: Solid1 133
+    100372: Solid1 133_MeshPart0
+    100374: Solid1 133_MeshPart1
+    100376: Solid1 134
+    100378: Solid1 134_MeshPart0
+    100380: Solid1 134_MeshPart1
+    100382: Solid1 134_MeshPart2
+    100384: Solid1 135
+    100386: Solid1 135_MeshPart0
+    100388: Solid1 135_MeshPart1
+    100390: Solid1 136
+    100392: Solid1 136_MeshPart0
+    100394: Solid1 136_MeshPart1
+    100396: Solid1 136_MeshPart2
+    100398: Solid1 137
+    100400: Solid1 137_MeshPart0
+    100402: Solid1 137_MeshPart1
+    100404: Solid1 138
+    100406: Solid1 139
+    100408: Solid1 14
+    100410: Solid1 140
+    100412: Solid1 141
+    100414: Solid1 142
+    100416: Solid1 143
+    100418: Solid1 144
+    100420: Solid1 145
+    100422: Solid1 15
+    100424: Solid1 16
+    100426: Solid1 16_MeshPart0
+    100428: Solid1 16_MeshPart1
+    100430: Solid1 17
+    100432: Solid1 17_MeshPart0
+    100434: Solid1 17_MeshPart1
+    100436: Solid1 18
+    100438: Solid1 18_MeshPart0
+    100440: Solid1 18_MeshPart1
+    100442: Solid1 19
+    100444: Solid1 19_MeshPart0
+    100446: Solid1 19_MeshPart1
+    100448: Solid1 2
+    100450: Solid1 20
+    100452: Solid1 20_MeshPart0
+    100454: Solid1 20_MeshPart1
+    100456: Solid1 21
+    100458: Solid1 21_MeshPart0
+    100460: Solid1 21_MeshPart1
+    100462: Solid1 22
+    100464: Solid1 22_MeshPart0
+    100466: Solid1 22_MeshPart1
+    100468: Solid1 23
+    100470: Solid1 23_MeshPart0
+    100472: Solid1 23_MeshPart1
+    100474: Solid1 24
+    100476: Solid1 25
+    100478: Solid1 26
+    100480: Solid1 27
+    100482: Solid1 28
+    100484: Solid1 29
+    100486: Solid1 3
+    100488: Solid1 30
+    100490: Solid1 31
+    100492: Solid1 32
+    100494: Solid1 33
+    100496: Solid1 34
+    100498: Solid1 35
+    100500: Solid1 36
+    100502: Solid1 37
+    100504: Solid1 38
+    100506: Solid1 39
+    100508: Solid1 4
+    100510: Solid1 40
+    100512: Solid1 40_MeshPart0
+    100514: Solid1 40_MeshPart1
+    100516: Solid1 41
+    100518: Solid1 41_MeshPart0
+    100520: Solid1 41_MeshPart1
+    100522: Solid1 42
+    100524: Solid1 43
+    100526: Solid1 44
+    100528: Solid1 45
+    100530: Solid1 46
+    100532: Solid1 47
+    100534: Solid1 48
+    100536: Solid1 49
+    100538: Solid1 5
+    100540: Solid1 50
+    100542: Solid1 50_MeshPart0
+    100544: Solid1 50_MeshPart1
+    100546: Solid1 50_MeshPart2
+    100548: Solid1 51
+    100550: Solid1 52
+    100552: Solid1 52_MeshPart0
+    100554: Solid1 52_MeshPart1
+    100556: Solid1 52_MeshPart2
+    100558: Solid1 53
+    100560: Solid1 54
+    100562: Solid1 55
+    100564: Solid1 56
+    100566: Solid1 57
+    100568: Solid1 57_MeshPart0
+    100570: Solid1 57_MeshPart1
+    100572: Solid1 58
+    100574: Solid1 58_MeshPart0
+    100576: Solid1 58_MeshPart1
+    100578: Solid1 59
+    100580: Solid1 6
+    100582: Solid1 60
+    100584: Solid1 61
+    100586: Solid1 62
+    100588: Solid1 63
+    100590: Solid1 64
+    100592: Solid1 65
+    100594: Solid1 66
+    100596: Solid1 67
+    100598: Solid1 68
+    100600: Solid1 69
+    100602: Solid1 7
+    100604: Solid1 70
+    100606: Solid1 71
+    100608: Solid1 72
+    100610: Solid1 73
+    100612: Solid1 73_MeshPart0
+    100614: Solid1 73_MeshPart1
+    100616: Solid1 74
+    100618: Solid1 74_MeshPart0
+    100620: Solid1 74_MeshPart1
+    100622: Solid1 74_MeshPart2
+    100624: Solid1 74_MeshPart3
+    100626: Solid1 75
+    100628: Solid1 76
+    100630: Solid1 77
+    100632: Solid1 78
+    100634: Solid1 79
+    100636: Solid1 8
+    100638: Solid1 80
+    100640: Solid1 81
+    100642: Solid1 82
+    100644: Solid1 83
+    100646: Solid1 84
+    100648: Solid1 85
+    100650: Solid1 86
+    100652: Solid1 87
+    100654: Solid1 88
+    100656: Solid1 89
+    100658: Solid1 9
+    100660: Solid1 90
+    100662: Solid1 91
+    100664: Solid1 92
+    100666: Solid1 93
+    100668: Solid1 94
+    100670: Solid1 95
+    100672: Solid1 96
+    100674: Solid1 97
+    100676: Solid1 98
+    100678: Solid1 99
+    100680: STUD:1
+    100682: STUD:2
+    100684: STUD:3
+    400000: //RootNode
+    400002: 15 HP COVER:1
+    400004: 15 HP:1
+    400006: AIR OPERATED VALVE:1
+    400008: B M10:1
+    400010: B M10:2
+    400012: B M10:3
+    400014: BODY:1
+    400016: Bolt:1
+    400018: Bolt:2
+    400020: Bolt:3
+    400022: Bolt:4
+    400024: Bolt:5
+    400026: Bolt:6
+    400028: Bolt:7
+    400030: Bolt:8
+    400032: Coupling Set:1
+    400034: ELECTRIC MOTOR 15 HP:1
+    400036: Frame0001:1
+    400038: IT-1200X450-PUMP:1
+    400040: JIS 100 x 50 x 5 00000001:1
+    400042: JIS 100 x 50 x 5 00000002:1
+    400044: JIS 100 x 50 x 5 00000003:1
+    400046: JIS 100 x 50 x 5 00000004:1
+    400048: JIS 100 x 50 x 5 00000005:1
+    400050: JIS 100 x 50 x 5 00000006:1
+    400052: JIS 100 x 50 x 5 00000007:1
+    400054: JIS 100 x 50 x 5 00000008:1
+    400056: JIS B 1168 - Metric M10:1
+    400058: JIS B 1168 - Metric M10:2
+    400060: JIS B 1176 - Metric M10 x 25:1
+    400062: JIS B 1176 - Metric M10 x 25:2
+    400064: JIS B 1176 - Metric M10 x 25:3
+    400066: JIS B 1176 - Metric M10 x 25:4
+    400068: JIS B 1180 M10x20:1
+    400070: JIS B 1180 M10x20:10
+    400072: JIS B 1180 M10x20:11
+    400074: JIS B 1180 M10x20:12
+    400076: JIS B 1180 M10x20:13
+    400078: JIS B 1180 M10x20:14
+    400080: JIS B 1180 M10x20:15
+    400082: JIS B 1180 M10x20:16
+    400084: JIS B 1180 M10x20:17
+    400086: JIS B 1180 M10x20:18
+    400088: JIS B 1180 M10x20:19
+    400090: JIS B 1180 M10x20:2
+    400092: JIS B 1180 M10x20:20
+    400094: JIS B 1180 M10x20:21
+    400096: JIS B 1180 M10x20:22
+    400098: JIS B 1180 M10x20:23
+    400100: JIS B 1180 M10x20:24
+    400102: JIS B 1180 M10x20:25
+    400104: JIS B 1180 M10x20:26
+    400106: JIS B 1180 M10x20:27
+    400108: JIS B 1180 M10x20:28
+    400110: JIS B 1180 M10x20:29
+    400112: JIS B 1180 M10x20:3
+    400114: JIS B 1180 M10x20:30
+    400116: JIS B 1180 M10x20:31
+    400118: JIS B 1180 M10x20:32
+    400120: JIS B 1180 M10x20:4
+    400122: JIS B 1180 M10x20:5
+    400124: JIS B 1180 M10x20:6
+    400126: JIS B 1180 M10x20:7
+    400128: JIS B 1180 M10x20:8
+    400130: JIS B 1180 M10x20:9
+    400132: JIS B 1180 M10x25:1
+    400134: JIS B 1180 M10x25:2
+    400136: JIS B 1180 M10x25:3
+    400138: JIS B 1180 M10x25:4
+    400140: JIS B 1180 M10x45:1
+    400142: JIS B 1180 M10x45:2
+    400144: JIS B 1180 M10x45:3
+    400146: JIS B 1180 M10x45:4
+    400148: JIS B 1180 M10x45:5
+    400150: JIS B 1180 M10x45:6
+    400152: JIS B 1180 M10x45:7
+    400154: JIS B 1180 M10x45:8
+    400156: JIS B 1180 M18x60:1
+    400158: JIS B 1180 M18x60:2
+    400160: JIS B 1180 M18x60:3
+    400162: JIS B 1180 M18x60:4
+    400164: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:10
+    400166: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:11
+    400168: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:12
+    400170: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:13
+    400172: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:14
+    400174: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:15
+    400176: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:16
+    400178: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM12x1.25:9
+    400180: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM18:1
+    400182: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM18:2
+    400184: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM18:3
+    400186: JIS B 1181 -finished Class 1 - Metric Class 1 -finishedM18:4
+    400188: JIS B 1251 No. 2 12:1
+    400190: JIS B 1251 No. 2 12:2
+    400192: JIS B 1251 No. 2 12:3
+    400194: JIS B 1251 No. 2 12:4
+    400196: JIS B 1251 No. 2 12:5
+    400198: JIS B 1251 No. 2 12:6
+    400200: JIS B 1251 No. 2 12:7
+    400202: JIS B 1251 No. 2 12:8
+    400204: JIS B 1251 No. 2 18:1
+    400206: JIS B 1251 No. 2 18:2
+    400208: JIS B 1251 No. 2 18:3
+    400210: JIS B 1251 No. 2 18:4
+    400212: JIS B 1256 10.5:1
+    400214: JIS B 1256 10.5:10
+    400216: JIS B 1256 10.5:11
+    400218: JIS B 1256 10.5:12
+    400220: JIS B 1256 10.5:13
+    400222: JIS B 1256 10.5:14
+    400224: JIS B 1256 10.5:15
+    400226: JIS B 1256 10.5:16
+    400228: JIS B 1256 10.5:17
+    400230: JIS B 1256 10.5:18
+    400232: JIS B 1256 10.5:19
+    400234: JIS B 1256 10.5:2
+    400236: JIS B 1256 10.5:20
+    400238: JIS B 1256 10.5:3
+    400240: JIS B 1256 10.5:4
+    400242: JIS B 1256 10.5:5
+    400244: JIS B 1256 10.5:6
+    400246: JIS B 1256 10.5:7
+    400248: JIS B 1256 10.5:9
+    400250: JIS B 1256 21:1
+    400252: JIS B 1256 21:2
+    400254: JIS B 1256 21:3
+    400256: JIS B 1256 21:4
+    400258: Left Flange:1
+    400260: NPT-FLANGE:1
+    400262: NPT-FLANGE:2
+    400264: PT-30 CORKEN PUMP:1
+    400266: PUMP SET
+    400268: Right Flange:1
+    400270: Rubber:1
+    400272: Rubber:2
+    400274: Rubber:3
+    400276: Rubber:4
+    400278: Rubber:5
+    400280: Rubber:6
+    400282: Rubber:7
+    400284: Rubber:8
+    400286: SHAFT COVER:1
+    400288: SHAFT:1
+    400290: SHAFT:2
+    400292: Solid1
+    400294: Solid1 1
+    400296: Solid1 10
+    400298: Solid1 100
+    400300: Solid1 101
+    400302: Solid1 102
+    400304: Solid1 103
+    400306: Solid1 104
+    400308: Solid1 105
+    400310: Solid1 106
+    400312: Solid1 107
+    400314: Solid1 108
+    400316: Solid1 109
+    400318: Solid1 11
+    400320: Solid1 110
+    400322: Solid1 111
+    400324: Solid1 112
+    400326: Solid1 113
+    400328: Solid1 114
+    400330: Solid1 115
+    400332: Solid1 116
+    400334: Solid1 117
+    400336: Solid1 118
+    400338: Solid1 119
+    400340: Solid1 12
+    400342: Solid1 120
+    400344: Solid1 121
+    400346: Solid1 122
+    400348: Solid1 123
+    400350: Solid1 124
+    400352: Solid1 125
+    400354: Solid1 126
+    400356: Solid1 127
+    400358: Solid1 128
+    400360: Solid1 129
+    400362: Solid1 13
+    400364: Solid1 130
+    400366: Solid1 131
+    400368: Solid1 132
+    400370: Solid1 133
+    400372: Solid1 133_MeshPart0
+    400374: Solid1 133_MeshPart1
+    400376: Solid1 134
+    400378: Solid1 134_MeshPart0
+    400380: Solid1 134_MeshPart1
+    400382: Solid1 134_MeshPart2
+    400384: Solid1 135
+    400386: Solid1 135_MeshPart0
+    400388: Solid1 135_MeshPart1
+    400390: Solid1 136
+    400392: Solid1 136_MeshPart0
+    400394: Solid1 136_MeshPart1
+    400396: Solid1 136_MeshPart2
+    400398: Solid1 137
+    400400: Solid1 137_MeshPart0
+    400402: Solid1 137_MeshPart1
+    400404: Solid1 138
+    400406: Solid1 139
+    400408: Solid1 14
+    400410: Solid1 140
+    400412: Solid1 141
+    400414: Solid1 142
+    400416: Solid1 143
+    400418: Solid1 144
+    400420: Solid1 145
+    400422: Solid1 15
+    400424: Solid1 16
+    400426: Solid1 16_MeshPart0
+    400428: Solid1 16_MeshPart1
+    400430: Solid1 17
+    400432: Solid1 17_MeshPart0
+    400434: Solid1 17_MeshPart1
+    400436: Solid1 18
+    400438: Solid1 18_MeshPart0
+    400440: Solid1 18_MeshPart1
+    400442: Solid1 19
+    400444: Solid1 19_MeshPart0
+    400446: Solid1 19_MeshPart1
+    400448: Solid1 2
+    400450: Solid1 20
+    400452: Solid1 20_MeshPart0
+    400454: Solid1 20_MeshPart1
+    400456: Solid1 21
+    400458: Solid1 21_MeshPart0
+    400460: Solid1 21_MeshPart1
+    400462: Solid1 22
+    400464: Solid1 22_MeshPart0
+    400466: Solid1 22_MeshPart1
+    400468: Solid1 23
+    400470: Solid1 23_MeshPart0
+    400472: Solid1 23_MeshPart1
+    400474: Solid1 24
+    400476: Solid1 25
+    400478: Solid1 26
+    400480: Solid1 27
+    400482: Solid1 28
+    400484: Solid1 29
+    400486: Solid1 3
+    400488: Solid1 30
+    400490: Solid1 31
+    400492: Solid1 32
+    400494: Solid1 33
+    400496: Solid1 34
+    400498: Solid1 35
+    400500: Solid1 36
+    400502: Solid1 37
+    400504: Solid1 38
+    400506: Solid1 39
+    400508: Solid1 4
+    400510: Solid1 40
+    400512: Solid1 40_MeshPart0
+    400514: Solid1 40_MeshPart1
+    400516: Solid1 41
+    400518: Solid1 41_MeshPart0
+    400520: Solid1 41_MeshPart1
+    400522: Solid1 42
+    400524: Solid1 43
+    400526: Solid1 44
+    400528: Solid1 45
+    400530: Solid1 46
+    400532: Solid1 47
+    400534: Solid1 48
+    400536: Solid1 49
+    400538: Solid1 5
+    400540: Solid1 50
+    400542: Solid1 50_MeshPart0
+    400544: Solid1 50_MeshPart1
+    400546: Solid1 50_MeshPart2
+    400548: Solid1 51
+    400550: Solid1 52
+    400552: Solid1 52_MeshPart0
+    400554: Solid1 52_MeshPart1
+    400556: Solid1 52_MeshPart2
+    400558: Solid1 53
+    400560: Solid1 54
+    400562: Solid1 55
+    400564: Solid1 56
+    400566: Solid1 57
+    400568: Solid1 57_MeshPart0
+    400570: Solid1 57_MeshPart1
+    400572: Solid1 58
+    400574: Solid1 58_MeshPart0
+    400576: Solid1 58_MeshPart1
+    400578: Solid1 59
+    400580: Solid1 6
+    400582: Solid1 60
+    400584: Solid1 61
+    400586: Solid1 62
+    400588: Solid1 63
+    400590: Solid1 64
+    400592: Solid1 65
+    400594: Solid1 66
+    400596: Solid1 67
+    400598: Solid1 68
+    400600: Solid1 69
+    400602: Solid1 7
+    400604: Solid1 70
+    400606: Solid1 71
+    400608: Solid1 72
+    400610: Solid1 73
+    400612: Solid1 73_MeshPart0
+    400614: Solid1 73_MeshPart1
+    400616: Solid1 74
+    400618: Solid1 74_MeshPart0
+    400620: Solid1 74_MeshPart1
+    400622: Solid1 74_MeshPart2
+    400624: Solid1 74_MeshPart3
+    400626: Solid1 75
+    400628: Solid1 76
+    400630: Solid1 77
+    400632: Solid1 78
+    400634: Solid1 79
+    400636: Solid1 8
+    400638: Solid1 80
+    400640: Solid1 81
+    400642: Solid1 82
+    400644: Solid1 83
+    400646: Solid1 84
+    400648: Solid1 85
+    400650: Solid1 86
+    400652: Solid1 87
+    400654: Solid1 88
+    400656: Solid1 89
+    400658: Solid1 9
+    400660: Solid1 90
+    400662: Solid1 91
+    400664: Solid1 92
+    400666: Solid1 93
+    400668: Solid1 94
+    400670: Solid1 95
+    400672: Solid1 96
+    400674: Solid1 97
+    400676: Solid1 98
+    400678: Solid1 99
+    400680: STUD:1
+    400682: STUD:2
+    400684: STUD:3
+    2300000: Solid1
+    2300002: Solid1 1
+    2300004: Solid1 10
+    2300006: Solid1 100
+    2300008: Solid1 101
+    2300010: Solid1 102
+    2300012: Solid1 103
+    2300014: Solid1 104
+    2300016: Solid1 105
+    2300018: Solid1 106
+    2300020: Solid1 107
+    2300022: Solid1 108
+    2300024: Solid1 109
+    2300026: Solid1 11
+    2300028: Solid1 110
+    2300030: Solid1 111
+    2300032: Solid1 112
+    2300034: Solid1 113
+    2300036: Solid1 114
+    2300038: Solid1 115
+    2300040: Solid1 116
+    2300042: Solid1 117
+    2300044: Solid1 118
+    2300046: Solid1 119
+    2300048: Solid1 12
+    2300050: Solid1 120
+    2300052: Solid1 121
+    2300054: Solid1 122
+    2300056: Solid1 123
+    2300058: Solid1 124
+    2300060: Solid1 125
+    2300062: Solid1 126
+    2300064: Solid1 127
+    2300066: Solid1 128
+    2300068: Solid1 129
+    2300070: Solid1 13
+    2300072: Solid1 130
+    2300074: Solid1 131
+    2300076: Solid1 132
+    2300078: Solid1 133_MeshPart0
+    2300080: Solid1 133_MeshPart1
+    2300082: Solid1 134_MeshPart0
+    2300084: Solid1 134_MeshPart1
+    2300086: Solid1 134_MeshPart2
+    2300088: Solid1 135_MeshPart0
+    2300090: Solid1 135_MeshPart1
+    2300092: Solid1 136_MeshPart0
+    2300094: Solid1 136_MeshPart1
+    2300096: Solid1 136_MeshPart2
+    2300098: Solid1 137_MeshPart0
+    2300100: Solid1 137_MeshPart1
+    2300102: Solid1 138
+    2300104: Solid1 139
+    2300106: Solid1 14
+    2300108: Solid1 140
+    2300110: Solid1 141
+    2300112: Solid1 142
+    2300114: Solid1 143
+    2300116: Solid1 144
+    2300118: Solid1 145
+    2300120: Solid1 15
+    2300122: Solid1 16_MeshPart0
+    2300124: Solid1 16_MeshPart1
+    2300126: Solid1 17_MeshPart0
+    2300128: Solid1 17_MeshPart1
+    2300130: Solid1 18_MeshPart0
+    2300132: Solid1 18_MeshPart1
+    2300134: Solid1 19_MeshPart0
+    2300136: Solid1 19_MeshPart1
+    2300138: Solid1 2
+    2300140: Solid1 20_MeshPart0
+    2300142: Solid1 20_MeshPart1
+    2300144: Solid1 21_MeshPart0
+    2300146: Solid1 21_MeshPart1
+    2300148: Solid1 22_MeshPart0
+    2300150: Solid1 22_MeshPart1
+    2300152: Solid1 23_MeshPart0
+    2300154: Solid1 23_MeshPart1
+    2300156: Solid1 24
+    2300158: Solid1 25
+    2300160: Solid1 26
+    2300162: Solid1 27
+    2300164: Solid1 28
+    2300166: Solid1 29
+    2300168: Solid1 3
+    2300170: Solid1 30
+    2300172: Solid1 31
+    2300174: Solid1 32
+    2300176: Solid1 33
+    2300178: Solid1 34
+    2300180: Solid1 35
+    2300182: Solid1 36
+    2300184: Solid1 37
+    2300186: Solid1 38
+    2300188: Solid1 39
+    2300190: Solid1 4
+    2300192: Solid1 40_MeshPart0
+    2300194: Solid1 40_MeshPart1
+    2300196: Solid1 41_MeshPart0
+    2300198: Solid1 41_MeshPart1
+    2300200: Solid1 42
+    2300202: Solid1 43
+    2300204: Solid1 44
+    2300206: Solid1 45
+    2300208: Solid1 46
+    2300210: Solid1 47
+    2300212: Solid1 48
+    2300214: Solid1 49
+    2300216: Solid1 5
+    2300218: Solid1 50_MeshPart0
+    2300220: Solid1 50_MeshPart1
+    2300222: Solid1 50_MeshPart2
+    2300224: Solid1 51
+    2300226: Solid1 52_MeshPart0
+    2300228: Solid1 52_MeshPart1
+    2300230: Solid1 52_MeshPart2
+    2300232: Solid1 53
+    2300234: Solid1 54
+    2300236: Solid1 55
+    2300238: Solid1 56
+    2300240: Solid1 57_MeshPart0
+    2300242: Solid1 57_MeshPart1
+    2300244: Solid1 58_MeshPart0
+    2300246: Solid1 58_MeshPart1
+    2300248: Solid1 59
+    2300250: Solid1 6
+    2300252: Solid1 60
+    2300254: Solid1 61
+    2300256: Solid1 62
+    2300258: Solid1 63
+    2300260: Solid1 64
+    2300262: Solid1 65
+    2300264: Solid1 66
+    2300266: Solid1 67
+    2300268: Solid1 68
+    2300270: Solid1 69
+    2300272: Solid1 7
+    2300274: Solid1 70
+    2300276: Solid1 71
+    2300278: Solid1 72
+    2300280: Solid1 73_MeshPart0
+    2300282: Solid1 73_MeshPart1
+    2300284: Solid1 74_MeshPart0
+    2300286: Solid1 74_MeshPart1
+    2300288: Solid1 74_MeshPart2
+    2300290: Solid1 74_MeshPart3
+    2300292: Solid1 75
+    2300294: Solid1 76
+    2300296: Solid1 77
+    2300298: Solid1 78
+    2300300: Solid1 79
+    2300302: Solid1 8
+    2300304: Solid1 80
+    2300306: Solid1 81
+    2300308: Solid1 82
+    2300310: Solid1 83
+    2300312: Solid1 84
+    2300314: Solid1 85
+    2300316: Solid1 86
+    2300318: Solid1 87
+    2300320: Solid1 88
+    2300322: Solid1 89
+    2300324: Solid1 9
+    2300326: Solid1 90
+    2300328: Solid1 91
+    2300330: Solid1 92
+    2300332: Solid1 93
+    2300334: Solid1 94
+    2300336: Solid1 95
+    2300338: Solid1 96
+    2300340: Solid1 97
+    2300342: Solid1 98
+    2300344: Solid1 99
+    3300000: Solid1
+    3300002: Solid1 1
+    3300004: Solid1 10
+    3300006: Solid1 100
+    3300008: Solid1 101
+    3300010: Solid1 102
+    3300012: Solid1 103
+    3300014: Solid1 104
+    3300016: Solid1 105
+    3300018: Solid1 106
+    3300020: Solid1 107
+    3300022: Solid1 108
+    3300024: Solid1 109
+    3300026: Solid1 11
+    3300028: Solid1 110
+    3300030: Solid1 111
+    3300032: Solid1 112
+    3300034: Solid1 113
+    3300036: Solid1 114
+    3300038: Solid1 115
+    3300040: Solid1 116
+    3300042: Solid1 117
+    3300044: Solid1 118
+    3300046: Solid1 119
+    3300048: Solid1 12
+    3300050: Solid1 120
+    3300052: Solid1 121
+    3300054: Solid1 122
+    3300056: Solid1 123
+    3300058: Solid1 124
+    3300060: Solid1 125
+    3300062: Solid1 126
+    3300064: Solid1 127
+    3300066: Solid1 128
+    3300068: Solid1 129
+    3300070: Solid1 13
+    3300072: Solid1 130
+    3300074: Solid1 131
+    3300076: Solid1 132
+    3300078: Solid1 133_MeshPart0
+    3300080: Solid1 133_MeshPart1
+    3300082: Solid1 134_MeshPart0
+    3300084: Solid1 134_MeshPart1
+    3300086: Solid1 134_MeshPart2
+    3300088: Solid1 135_MeshPart0
+    3300090: Solid1 135_MeshPart1
+    3300092: Solid1 136_MeshPart0
+    3300094: Solid1 136_MeshPart1
+    3300096: Solid1 136_MeshPart2
+    3300098: Solid1 137_MeshPart0
+    3300100: Solid1 137_MeshPart1
+    3300102: Solid1 138
+    3300104: Solid1 139
+    3300106: Solid1 14
+    3300108: Solid1 140
+    3300110: Solid1 141
+    3300112: Solid1 142
+    3300114: Solid1 143
+    3300116: Solid1 144
+    3300118: Solid1 145
+    3300120: Solid1 15
+    3300122: Solid1 16_MeshPart0
+    3300124: Solid1 16_MeshPart1
+    3300126: Solid1 17_MeshPart0
+    3300128: Solid1 17_MeshPart1
+    3300130: Solid1 18_MeshPart0
+    3300132: Solid1 18_MeshPart1
+    3300134: Solid1 19_MeshPart0
+    3300136: Solid1 19_MeshPart1
+    3300138: Solid1 2
+    3300140: Solid1 20_MeshPart0
+    3300142: Solid1 20_MeshPart1
+    3300144: Solid1 21_MeshPart0
+    3300146: Solid1 21_MeshPart1
+    3300148: Solid1 22_MeshPart0
+    3300150: Solid1 22_MeshPart1
+    3300152: Solid1 23_MeshPart0
+    3300154: Solid1 23_MeshPart1
+    3300156: Solid1 24
+    3300158: Solid1 25
+    3300160: Solid1 26
+    3300162: Solid1 27
+    3300164: Solid1 28
+    3300166: Solid1 29
+    3300168: Solid1 3
+    3300170: Solid1 30
+    3300172: Solid1 31
+    3300174: Solid1 32
+    3300176: Solid1 33
+    3300178: Solid1 34
+    3300180: Solid1 35
+    3300182: Solid1 36
+    3300184: Solid1 37
+    3300186: Solid1 38
+    3300188: Solid1 39
+    3300190: Solid1 4
+    3300192: Solid1 40_MeshPart0
+    3300194: Solid1 40_MeshPart1
+    3300196: Solid1 41_MeshPart0
+    3300198: Solid1 41_MeshPart1
+    3300200: Solid1 42
+    3300202: Solid1 43
+    3300204: Solid1 44
+    3300206: Solid1 45
+    3300208: Solid1 46
+    3300210: Solid1 47
+    3300212: Solid1 48
+    3300214: Solid1 49
+    3300216: Solid1 5
+    3300218: Solid1 50_MeshPart0
+    3300220: Solid1 50_MeshPart1
+    3300222: Solid1 50_MeshPart2
+    3300224: Solid1 51
+    3300226: Solid1 52_MeshPart0
+    3300228: Solid1 52_MeshPart1
+    3300230: Solid1 52_MeshPart2
+    3300232: Solid1 53
+    3300234: Solid1 54
+    3300236: Solid1 55
+    3300238: Solid1 56
+    3300240: Solid1 57_MeshPart0
+    3300242: Solid1 57_MeshPart1
+    3300244: Solid1 58_MeshPart0
+    3300246: Solid1 58_MeshPart1
+    3300248: Solid1 59
+    3300250: Solid1 6
+    3300252: Solid1 60
+    3300254: Solid1 61
+    3300256: Solid1 62
+    3300258: Solid1 63
+    3300260: Solid1 64
+    3300262: Solid1 65
+    3300264: Solid1 66
+    3300266: Solid1 67
+    3300268: Solid1 68
+    3300270: Solid1 69
+    3300272: Solid1 7
+    3300274: Solid1 70
+    3300276: Solid1 71
+    3300278: Solid1 72
+    3300280: Solid1 73_MeshPart0
+    3300282: Solid1 73_MeshPart1
+    3300284: Solid1 74_MeshPart0
+    3300286: Solid1 74_MeshPart1
+    3300288: Solid1 74_MeshPart2
+    3300290: Solid1 74_MeshPart3
+    3300292: Solid1 75
+    3300294: Solid1 76
+    3300296: Solid1 77
+    3300298: Solid1 78
+    3300300: Solid1 79
+    3300302: Solid1 8
+    3300304: Solid1 80
+    3300306: Solid1 81
+    3300308: Solid1 82
+    3300310: Solid1 83
+    3300312: Solid1 84
+    3300314: Solid1 85
+    3300316: Solid1 86
+    3300318: Solid1 87
+    3300320: Solid1 88
+    3300322: Solid1 89
+    3300324: Solid1 9
+    3300326: Solid1 90
+    3300328: Solid1 91
+    3300330: Solid1 92
+    3300332: Solid1 93
+    3300334: Solid1 94
+    3300336: Solid1 95
+    3300338: Solid1 96
+    3300340: Solid1 97
+    3300342: Solid1 98
+    3300344: Solid1 99
+    4300000: Solid1_MeshPart0
+    4300002: Solid1_MeshPart1
+    4300004: Solid1_MeshPart2
+    4300006: Solid1_MeshPart3
+    4300008: Solid1
+    4300010: Solid1_MeshPart0
+    4300012: Solid1_MeshPart1
+    4300014: Solid1
+    4300016: Solid1
+    4300018: Solid1
+    4300020: Solid1_MeshPart0
+    4300022: Solid1_MeshPart1
+    4300024: Solid1_MeshPart0
+    4300026: Solid1_MeshPart1
+    4300028: Solid1_MeshPart2
+    4300030: Solid1
+    4300032: Solid1_MeshPart0
+    4300034: Solid1_MeshPart1
+    4300036: Solid1_MeshPart0
+    4300038: Solid1_MeshPart1
+    4300040: Solid1
+    4300042: Solid1_MeshPart0
+    4300044: Solid1_MeshPart1
+    4300046: Solid1
+    4300048: Solid1
+    4300050: Solid1_MeshPart0
+    4300052: Solid1_MeshPart1
+    4300054: Solid1
+    4300056: Solid1_MeshPart0
+    4300058: Solid1_MeshPart1
+    4300060: Solid1_MeshPart2
+    4300062: Solid1
+    4300064: Solid1_MeshPart0
+    4300066: Solid1_MeshPart1
+    4300068: Solid1_MeshPart2
+    4300070: Solid1
+    4300072: Solid1
+    4300074: Solid1_MeshPart0
+    4300076: Solid1_MeshPart1
+    4300078: Solid1
+    4300080: Solid1
+    4300082: Solid1
+    4300084: Solid1
+    4300086: Solid1
+    4300088: Solid1
+    4300090: Solid1
+    4300092: Solid1
+    4300094: Solid1
+    4300096: Solid1
+    4300098: Solid1
+    4300100: Solid1
+    4300102: Solid1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

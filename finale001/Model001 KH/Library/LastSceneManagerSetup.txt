@@ -1,4 +1,4 @@
 sceneSetups:
-- path: C:/Users/KHALIL/Desktop/Model001 KH/Assets/Game001.unity
+- path: Assets/Game001.unity
   isLoaded: 1
   isActive: 1

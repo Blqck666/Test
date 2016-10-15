@@ -4,27 +4,31 @@ using System.Collections;
 public class Global : MonoBehaviour {
 
 
-    public GameObject e1, e2, e3, e4;
+    public GameObject e1, e2;
     public GameObject water;
     public GameObject water1;
     public static GameObject[] ElementsToRotate;
+    public GameObject[] ElementsChange;
     public static bool  waters =false;
     public GameObject ObjectToTransparence;
     public Material MaterielToSave;
     private static int speed = 5;
     public static bool OnRotate = false;
     public static bool transparenc = false;
+    public Material[] elementchangecolor;
     // Use this for initialization
     void Start() {
-
-        ElementsToRotate = new GameObject[4];
+       
+        ElementsToRotate = new GameObject[2];
 
         ElementsToRotate[0] = e1;
         ElementsToRotate[1] = e2;
-        ElementsToRotate[2] = e3;
-        ElementsToRotate[3] = e4;
+    
+   
         var renderer1 = ObjectToTransparence.GetComponent<Renderer>();
-
+        ElementsChange = GameObject.FindGameObjectsWithTag("Player");
+       
+     
 
         MaterielToSave = renderer1.material;
 
@@ -37,19 +41,37 @@ public class Global : MonoBehaviour {
         Material[] elementchangecolor; 
         if (OnRotate)
         {
-            foreach (GameObject respawn in ElementsToRotate)
+       
+            foreach (GameObject respawn in ElementsChange)
             {
                 respawn.transform.Rotate(new Vector3(30, 0, 0) * Time.deltaTime * speed);
 
-                elementchangecolor= respawn.GetComponent<Renderer>().materials;
+                elementchangecolor = respawn.GetComponent<Renderer>().materials;
 
-                foreach(Material m in elementchangecolor)
+                foreach (Material m in elementchangecolor)
                 {
 
                     m.color = Color.yellow;
                 }
 
             }
+
+            foreach (GameObject respawn in ElementsToRotate)
+            {
+                respawn.transform.Rotate(new Vector3(30, 0, 0) * Time.deltaTime * speed);
+
+                elementchangecolor = respawn.GetComponent<Renderer>().materials;
+
+                foreach (Material m in elementchangecolor)
+                {
+
+                    m.color = Color.yellow;
+                }
+
+            }
+            
+
+
         }
 
         if (waters) {

@@ -123,6 +123,7 @@
     <Compile Include="Assets\UITween\Scripts\ReferencedFrom.cs" />
     <Compile Include="Assets\UITween\Scripts\UITween.cs" />
     <Compile Include="Assets\move.cs" />
+    <Compile Include="Assets\testTran.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ARToolKit5-Unity\Resources\Shaders\Mask.shader" />
